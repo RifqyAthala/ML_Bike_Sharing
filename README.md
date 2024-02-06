@@ -1,4 +1,4 @@
-# **CAPITAL BIKE SHARING**
+# **Machine Learning for Budget Optimization: Predicting Total Bike Rentals to Enhance Cost Savings**
 
 ### **CONTEXT**
 Capital Bike Sharing adalah sistem penyewaan sepeda yang ada di Washington DC , Amerika Serikat. Seluruh proses penyewaan sepeda mulai dari keanggotaan, penyewaan, dan pengembalian kembali, sudah menjadi otomatis. Melalui sistem ini, pengguna
